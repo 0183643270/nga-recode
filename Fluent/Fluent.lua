@@ -7121,7 +7121,7 @@ function Library:CreateWindow(Config)
 	Main.ClipsDescendants = true
 	Main.Position = UDim2.new(0.081166774, 0, 0.0841463208, 0)
 	Main.Size = UDim2.new(0, 50, 0, 50)
-	Main.Image = "http://www.roblox.com/asset/?id=9681970193"
+	Main.Image = "http://www.roblox.com/asset/?id=11960621607"
 	local function MakeDraggable(topbarobject, object)
 		local Dragging = nil
 		local DragInput = nil
@@ -7236,5 +7236,6 @@ if getgenv then
 else
 	Fluent = Library
 end
+
 
 return Library, SaveManager, InterfaceManager
