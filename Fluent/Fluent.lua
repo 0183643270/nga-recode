@@ -2982,7 +2982,7 @@ Components.Window = (function()
 				PaddingTop = UDim.new(0, 2),
 			}),
 			New("ImageLabel", {
-				Image = "rbxassetid://9681970193",
+				Image = "rbxassetid://11960621607",
 				Size = UDim2.new(1, 0, 1, 0),
 				BackgroundTransparency = 1,
 			}, {
@@ -7239,3 +7239,4 @@ end
 
 
 return Library, SaveManager, InterfaceManager
+
